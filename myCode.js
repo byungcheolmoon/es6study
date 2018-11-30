@@ -1,4 +1,4 @@
-one = 300;
+one = 400;
 
 function get() {
     let one = 200;
