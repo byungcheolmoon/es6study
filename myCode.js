@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-one = 400;
-=======
-one = 550;
->>>>>>> 08035dc4fece663d5ea714d8e0a876a57699077f
+one = 600;
 
 function get() {
     let one = 200;
